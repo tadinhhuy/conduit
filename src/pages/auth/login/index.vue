@@ -4,8 +4,8 @@ export default {
   data() {
     return {
       form: {
-        email: 'huy.ta@sutrixsolutions.com',
-        password: 'tadinhhuy1996',
+        email: '',
+        password: '',
       },
       requestLogin: false,
     };
